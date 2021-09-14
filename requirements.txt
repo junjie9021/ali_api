@@ -1,0 +1,4 @@
+alibabacloud_tea_openapi
+alibabacloud-slb20140515==2.0.3
+alibabacloud_vpc20160428==2.0.0
+alibabacloud_ecs20140526==2.0.2
